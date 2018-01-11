@@ -1,0 +1,6 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\КНБ\КНБ\obj\Debug\КНБ.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\КНБ\КНБ\bin\Debug\КНБ.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\КНБ\КНБ\bin\Debug\КНБ.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\КНБ\КНБ\bin\Debug\КНБ.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\КНБ\КНБ\obj\Debug\КНБ.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\КНБ\КНБ\obj\Debug\КНБ.pdb

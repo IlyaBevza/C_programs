@@ -1,0 +1,6 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ReplaceExchangeFiles\ReplaceExchangeFiles\bin\Debug\ReplaceExchangeFiles.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ReplaceExchangeFiles\ReplaceExchangeFiles\bin\Debug\ReplaceExchangeFiles.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ReplaceExchangeFiles\ReplaceExchangeFiles\bin\Debug\ReplaceExchangeFiles.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ReplaceExchangeFiles\ReplaceExchangeFiles\obj\Debug\ReplaceExchangeFiles.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ReplaceExchangeFiles\ReplaceExchangeFiles\obj\Debug\ReplaceExchangeFiles.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ReplaceExchangeFiles\ReplaceExchangeFiles\obj\Debug\ReplaceExchangeFiles.pdb

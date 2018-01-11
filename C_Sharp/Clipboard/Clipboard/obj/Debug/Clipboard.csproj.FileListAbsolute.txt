@@ -1,0 +1,6 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\bin\Debug\Clipboard.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\bin\Debug\Clipboard.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\bin\Debug\Clipboard.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\obj\Debug\Clipboard.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\obj\Debug\Clipboard.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\obj\Debug\Clipboard.pdb

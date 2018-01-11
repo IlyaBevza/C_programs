@@ -1,0 +1,6 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Мониторинг бэкапа\Мониторинг бэкапа\obj\Debug\Мониторинг бэкапа.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Мониторинг бэкапа\Мониторинг бэкапа\bin\Debug\Мониторинг бэкапа.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Мониторинг бэкапа\Мониторинг бэкапа\bin\Debug\Мониторинг бэкапа.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Мониторинг бэкапа\Мониторинг бэкапа\bin\Debug\Мониторинг бэкапа.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Мониторинг бэкапа\Мониторинг бэкапа\obj\Debug\Мониторинг бэкапа.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Мониторинг бэкапа\Мониторинг бэкапа\obj\Debug\Мониторинг бэкапа.pdb

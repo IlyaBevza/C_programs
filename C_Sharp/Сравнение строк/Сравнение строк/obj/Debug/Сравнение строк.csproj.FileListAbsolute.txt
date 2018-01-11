@@ -1,0 +1,8 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Сравнение строк\Сравнение строк\bin\Debug\Сравнение строк.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Сравнение строк\Сравнение строк\bin\Debug\Сравнение строк.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Сравнение строк\Сравнение строк\bin\Debug\Сравнение строк.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Сравнение строк\Сравнение строк\obj\Debug\Сравнение строк.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Сравнение строк\Сравнение строк\obj\Debug\Сравнение_строк.MainForm.resources
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Сравнение строк\Сравнение строк\obj\Debug\Сравнение строк.csproj.GenerateResource.Cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Сравнение строк\Сравнение строк\obj\Debug\Сравнение строк.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Сравнение строк\Сравнение строк\obj\Debug\Сравнение строк.pdb

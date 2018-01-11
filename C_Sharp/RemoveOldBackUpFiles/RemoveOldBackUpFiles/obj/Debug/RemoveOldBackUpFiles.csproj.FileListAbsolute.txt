@@ -1,0 +1,18 @@
+C:\Users\Бевза\Documents\SharpDevelop Projects\RemoveOldBackUpFiles\RemoveOldBackUpFiles\obj\Debug\RemoveOldBackUpFiles.csprojResolveAssemblyReference.cache
+C:\Users\Бевза\Documents\SharpDevelop Projects\RemoveOldBackUpFiles\RemoveOldBackUpFiles\bin\Debug\RemoveOldBackUpFiles.exe.config
+C:\Users\Бевза\Documents\SharpDevelop Projects\RemoveOldBackUpFiles\RemoveOldBackUpFiles\bin\Debug\RemoveOldBackUpFiles.exe
+C:\Users\Бевза\Documents\SharpDevelop Projects\RemoveOldBackUpFiles\RemoveOldBackUpFiles\bin\Debug\RemoveOldBackUpFiles.pdb
+C:\Users\Бевза\Documents\SharpDevelop Projects\RemoveOldBackUpFiles\RemoveOldBackUpFiles\obj\Debug\RemoveOldBackUpFiles.exe
+C:\Users\Бевза\Documents\SharpDevelop Projects\RemoveOldBackUpFiles\RemoveOldBackUpFiles\obj\Debug\RemoveOldBackUpFiles.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\obj\Debug\RemoveOldBackUpFiles.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\bin\Debug\Удаление старых бэкап-файлов.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\bin\Debug\Удаление старых бэкап-файлов.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\bin\Debug\Удаление старых бэкап-файлов.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\obj\Debug\Удаление старых бэкап-файлов.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\obj\Debug\Удаление старых бэкап-файлов.pdb
+C:\Users\Бевза\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\bin\Debug\Удаление старых бэкап-файлов.exe.config
+C:\Users\Бевза\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\bin\Debug\Удаление старых бэкап-файлов.exe
+C:\Users\Бевза\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\bin\Debug\Удаление старых бэкап-файлов.pdb
+C:\Users\Бевза\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\obj\Debug\RemoveOldBackUpFiles.csprojResolveAssemblyReference.cache
+C:\Users\Бевза\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\obj\Debug\Удаление старых бэкап-файлов.exe
+C:\Users\Бевза\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUpFiles\RemoveOldBackUpFiles\obj\Debug\Удаление старых бэкап-файлов.pdb
