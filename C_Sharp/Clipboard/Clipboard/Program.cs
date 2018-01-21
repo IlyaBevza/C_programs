@@ -18,29 +18,21 @@ namespace mClipboard
             else
             {
                 string clip = Clipboard.GetText();
-                List<char> symbs = new List<char>(clip);
-                int num = 0;
-                foreach (char ch in clip)
+                List<char> into = new List<char>();
+                into.Add('\"');
+                foreach(char ch in clip)
                 {
-                    if (ch == '\"')
+                    if (ch == '\"') into.Add('\"');
+                    if (ch == '\n')
                     {
-                        symbs.Insert(num + 1, '\"');
-                        num++;
+                        into.Add(ch);
+                        into.Add('|');
+                        continue;
                     }
-                    else
-                    {
-                        if (ch == '\n'&& num!=symbs.Count-1)
-                        {
-                            symbs.Insert(num + 1, '|');
-                            num++;
-                        }
-                    }
-                    num++;
+                    into.Add(ch);
                 }
-                symbs.Insert(0, '\"');
-                symbs.Add('\"');
-                symbs.Add(';');
-                Clipboard.SetText(new string(symbs.ToArray()));
+                into.Add(';');
+                Clipboard.SetText(new string(into.ToArray()));
             }
 		}
 	}
