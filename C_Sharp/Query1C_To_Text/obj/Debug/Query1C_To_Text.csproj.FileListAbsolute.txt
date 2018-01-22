@@ -1,0 +1,6 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Query1C_To_Text\obj\Debug\Query1C_To_Text.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Query1C_To_Text\bin\Debug\Query1C_To_Text.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Query1C_To_Text\bin\Debug\Query1C_To_Text.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Query1C_To_Text\bin\Debug\Query1C_To_Text.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Query1C_To_Text\obj\Debug\Query1C_To_Text.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Query1C_To_Text\obj\Debug\Query1C_To_Text.pdb
