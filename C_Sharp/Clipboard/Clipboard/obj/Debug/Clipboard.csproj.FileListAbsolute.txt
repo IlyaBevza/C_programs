@@ -1,9 +1,4 @@
-C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\bin\Debug\Clipboard.exe.config
-C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\bin\Debug\Clipboard.exe
-C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\bin\Debug\Clipboard.pdb
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\obj\Debug\Clipboard.csprojResolveAssemblyReference.cache
-C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\obj\Debug\Clipboard.exe
-C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\obj\Debug\Clipboard.pdb
 D:\GIT\C_programs\C_Sharp\Clipboard\Clipboard\obj\Debug\Clipboard.csprojResolveAssemblyReference.cache
 D:\GIT\C_programs\C_Sharp\Clipboard\Clipboard\obj\Debug\Clipboard.csproj.CoreCompileInputs.cache
 D:\GIT\C_programs\C_Sharp\Clipboard\Clipboard\bin\Debug\TextTo_1C_Query.exe.config
@@ -11,3 +6,8 @@ D:\GIT\C_programs\C_Sharp\Clipboard\Clipboard\bin\Debug\TextTo_1C_Query.exe
 D:\GIT\C_programs\C_Sharp\Clipboard\Clipboard\bin\Debug\TextTo_1C_Query.pdb
 D:\GIT\C_programs\C_Sharp\Clipboard\Clipboard\obj\Debug\TextTo_1C_Query.exe
 D:\GIT\C_programs\C_Sharp\Clipboard\Clipboard\obj\Debug\TextTo_1C_Query.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\bin\Debug\TextTo_1C_Query.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\bin\Debug\TextTo_1C_Query.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\bin\Debug\TextTo_1C_Query.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\obj\Debug\TextTo_1C_Query.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\Clipboard\Clipboard\obj\Debug\TextTo_1C_Query.pdb

@@ -22,15 +22,11 @@ namespace mClipboard
                 into.Add('\"');
                 foreach(char ch in clip)
                 {
-                    if (ch == '\"') into.Add('\"');
-                    if (ch == '\n')
-                    {
-                        into.Add(ch);
-                        into.Add('|');
-                        continue;
-                    }
                     into.Add(ch);
+                	if (ch == '\"') into.Add('\"');
+                    if (ch == '\n') into.Add('|');                
                 }
+                into.Add('\"');
                 into.Add(';');
                 Clipboard.SetText(new string(into.ToArray()));
             }
