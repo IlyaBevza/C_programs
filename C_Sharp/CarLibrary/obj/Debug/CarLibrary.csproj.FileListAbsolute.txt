@@ -1,0 +1,6 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\obj\Debug\CarLibrary.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\bin\Debug\CarLibrary.dll.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\obj\Debug\CarLibrary.pdb

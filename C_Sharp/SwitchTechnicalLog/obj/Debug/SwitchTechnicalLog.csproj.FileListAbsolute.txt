@@ -1,0 +1,6 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SwitchTechnicalLog\obj\Debug\SwitchTechnicalLog.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SwitchTechnicalLog\bin\Debug\SwitchTechnicalLog.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SwitchTechnicalLog\bin\Debug\SwitchTechnicalLog.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SwitchTechnicalLog\bin\Debug\SwitchTechnicalLog.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SwitchTechnicalLog\obj\Debug\SwitchTechnicalLog.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SwitchTechnicalLog\obj\Debug\SwitchTechnicalLog.pdb

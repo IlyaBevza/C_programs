@@ -1,0 +1,8 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\bin\Debug\SQL Backup.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\bin\Debug\SQL Backup.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\bin\Debug\SQL Backup.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\obj\Debug\SQL Backup.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\obj\Debug\SQL_Backup.MainForm.resources
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\obj\Debug\SQL Backup.csproj.GenerateResource.Cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\obj\Debug\SQL Backup.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\obj\Debug\SQL Backup.pdb
