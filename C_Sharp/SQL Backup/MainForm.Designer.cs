@@ -39,18 +39,20 @@ namespace SQL_Backup
 			this.tbPassword = new System.Windows.Forms.TextBox();
 			this.bCheckConnection = new System.Windows.Forms.Button();
 			this.bMakeBackup = new System.Windows.Forms.Button();
+			this.lServer = new System.Windows.Forms.Label();
+			this.tbServer = new System.Windows.Forms.TextBox();
 			this.SuspendLayout();
 			// 
 			// BaseName
 			// 
 			this.BaseName.FormattingEnabled = true;
 			this.BaseName.Items.AddRange(new object[] {
-									"buh_promservis",
-									"hrm_promservis",
-									"bp_promservis"});
+			"buh_promservis",
+			"hrm_promservis",
+			"bp_promservis"});
 			this.BaseName.Location = new System.Drawing.Point(176, 16);
 			this.BaseName.Name = "BaseName";
-			this.BaseName.Size = new System.Drawing.Size(368, 21);
+			this.BaseName.Size = new System.Drawing.Size(241, 21);
 			this.BaseName.TabIndex = 0;
 			this.BaseName.SelectedIndexChanged += new System.EventHandler(this.BaseName_SelectedIndexChanged);
 			this.BaseName.TextUpdate += new System.EventHandler(this.BaseName_TextUpdate);
@@ -131,11 +133,28 @@ namespace SQL_Backup
 			this.bMakeBackup.Text = "Сделать бэкап";
 			this.bMakeBackup.UseVisualStyleBackColor = true;
 			// 
+			// lServer
+			// 
+			this.lServer.Location = new System.Drawing.Point(434, 16);
+			this.lServer.Name = "lServer";
+			this.lServer.Size = new System.Drawing.Size(100, 23);
+			this.lServer.TabIndex = 12;
+			this.lServer.Text = "Сервер";
+			// 
+			// tbServer
+			// 
+			this.tbServer.Location = new System.Drawing.Point(498, 17);
+			this.tbServer.Name = "tbServer";
+			this.tbServer.Size = new System.Drawing.Size(174, 20);
+			this.tbServer.TabIndex = 13;
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(690, 170);
+			this.Controls.Add(this.tbServer);
+			this.Controls.Add(this.lServer);
 			this.Controls.Add(this.bMakeBackup);
 			this.Controls.Add(this.bCheckConnection);
 			this.Controls.Add(this.tbPassword);
@@ -150,6 +169,7 @@ namespace SQL_Backup
 			this.Text = "SQL Backup";
 			this.ResumeLayout(false);
 			this.PerformLayout();
+
 		}
 		private System.Windows.Forms.Button bMakeBackup;
 		private System.Windows.Forms.Button bCheckConnection;
@@ -161,5 +181,7 @@ namespace SQL_Backup
 		private System.Windows.Forms.Label labelbackUpdestination;
 		private System.Windows.Forms.Label labelbase;
 		private System.Windows.Forms.ComboBox BaseName;
+		private System.Windows.Forms.Label lServer;
+		private System.Windows.Forms.TextBox tbServer;
 	}
 }

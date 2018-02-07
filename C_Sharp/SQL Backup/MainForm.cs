@@ -20,18 +20,18 @@ namespace SQL_Backup
 			
 			BaseName.Text=BaseName.Items[0].ToString();
 			tbLogin.Text="sa";
-			
+			tbServer.Text="srv-mssql01";
 			setBackupDestinationPath();
 			
 		}
 		private void setBackupDestinationPath(){
-			tbBackupDestination.Text=@"X:\Backup\"+BaseName.Text;
+			tbBackupDestination.Text=@"F:\Backup\";
 			
 		}
 		
 		private string createConnectionString(){
 			SqlConnectionStringBuilder builder=new SqlConnectionStringBuilder();
-			builder.DataSource="SRV-MSSQL01";
+			builder.DataSource=tbServer.Text;
 			builder.InitialCatalog=BaseName.Text;
 			builder.UserID=tbLogin.Text;
 			builder.Password=tbPassword.Text;
@@ -60,9 +60,8 @@ namespace SQL_Backup
 			using (SqlConnection connection = new SqlConnection(connectionString))
 			    {
 			        connection.Open();
-			       MessageBox.Show("Подключение открыто");
+			       MessageBox.Show("Успешное подключение..");
 			    }
-			     MessageBox.Show("Подключение закрыто...");
 			 
 		}
 	}

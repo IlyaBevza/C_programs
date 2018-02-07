@@ -6,3 +6,11 @@ C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\obj\Debug\SQL_Back
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\obj\Debug\SQL Backup.csproj.GenerateResource.Cache
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\obj\Debug\SQL Backup.exe
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\SQL Backup\obj\Debug\SQL Backup.pdb
+D:\GIT\C_programs\C_Sharp\SQL Backup\bin\Debug\SQL Backup.exe.config
+D:\GIT\C_programs\C_Sharp\SQL Backup\bin\Debug\SQL Backup.exe
+D:\GIT\C_programs\C_Sharp\SQL Backup\bin\Debug\SQL Backup.pdb
+D:\GIT\C_programs\C_Sharp\SQL Backup\obj\Debug\SQL Backup.csprojResolveAssemblyReference.cache
+D:\GIT\C_programs\C_Sharp\SQL Backup\obj\Debug\SQL_Backup.MainForm.resources
+D:\GIT\C_programs\C_Sharp\SQL Backup\obj\Debug\SQL Backup.csproj.GenerateResource.Cache
+D:\GIT\C_programs\C_Sharp\SQL Backup\obj\Debug\SQL Backup.exe
+D:\GIT\C_programs\C_Sharp\SQL Backup\obj\Debug\SQL Backup.pdb
