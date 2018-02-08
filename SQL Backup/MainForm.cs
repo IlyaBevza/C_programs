@@ -60,9 +60,30 @@ namespace SQL_Backup
 			using (SqlConnection connection = new SqlConnection(connectionString))
 			    {
 			        connection.Open();
-			       MessageBox.Show("Успешное подключение..");
+			        MessageBox.Show("Успешное подключение..");
 			    }
 			 
+		}
+		
+		void BMakeBackup_Click(object sender, EventArgs e)
+		{
+		DialogResult result=MessageBox.Show("Выполнить резервное копирование?","Выполнение операции",MessageBoxButtons.OKCancel);
+		if(result== DialogResult.Cancel) return;
+			string connectionString=createConnectionString();
+			using (SqlConnection connection = new SqlConnection(connectionString))
+			    {
+			        connection.Open();
+			        SqlCommand command=new SqlCommand();
+			        command.Connection=connection;
+			        command.CommandText=string.Format(@"BACKUP DATABASE [{0}] 
+											TO  DISK = N'{2}{0}{1}.bak' 
+											WITH NOFORMAT, NOINIT,  NAME = N'{0}-Full Database Backup', SKIP, NOREWIND, NOUNLOAD,  STATS = 10"
+			                                          ,BaseName.Text,DateTime.Now.ToString("yyMMddHHmm"),tbBackupDestination.Text);
+			        int ccc=command.ExecuteNonQuery();
+			        
+			        // Отправить оповещение об исполнении или ошибке
+			    }
+			
 		}
 	}
 }

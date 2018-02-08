@@ -47,9 +47,9 @@ namespace SQL_Backup
 			// 
 			this.BaseName.FormattingEnabled = true;
 			this.BaseName.Items.AddRange(new object[] {
-			"buh_promservis",
-			"hrm_promservis",
-			"bp_promservis"});
+									"buh_promservis",
+									"hrm_promservis",
+									"bp_promservis"});
 			this.BaseName.Location = new System.Drawing.Point(176, 16);
 			this.BaseName.Name = "BaseName";
 			this.BaseName.Size = new System.Drawing.Size(241, 21);
@@ -132,6 +132,7 @@ namespace SQL_Backup
 			this.bMakeBackup.TabIndex = 11;
 			this.bMakeBackup.Text = "Сделать бэкап";
 			this.bMakeBackup.UseVisualStyleBackColor = true;
+			this.bMakeBackup.Click += new System.EventHandler(this.BMakeBackup_Click);
 			// 
 			// lServer
 			// 
@@ -169,7 +170,6 @@ namespace SQL_Backup
 			this.Text = "SQL Backup";
 			this.ResumeLayout(false);
 			this.PerformLayout();
-
 		}
 		private System.Windows.Forms.Button bMakeBackup;
 		private System.Windows.Forms.Button bCheckConnection;
