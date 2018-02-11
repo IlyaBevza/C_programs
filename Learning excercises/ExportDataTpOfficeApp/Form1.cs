@@ -64,7 +64,7 @@ namespace ExportDataTpOfficeApp
                 worksheet.Cells[raw,"C"] = car.CurrentSpeed;
             }
             worksheet.Range["A1"].AutoFormat(Excel.XlRangeAutoFormat.xlRangeAutoFormatClassic2);
-            worksheet.SaveAs(@"C:\Users\ilya_\Desktop\test.xlsx");
+            worksheet.SaveAs(@"{0}\test.xlsx", Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory));
             application.Quit();
         }
     }
