@@ -1,0 +1,15 @@
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\bin\Debug\ExportDataTpOfficeApp.exe.config
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\bin\Debug\ExportDataTpOfficeApp.exe
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\bin\Debug\ExportDataTpOfficeApp.pdb
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\obj\Debug\ExportDataTpOfficeApp.csprojResolveAssemblyReference.cache
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\obj\Debug\ExportDataTpOfficeApp.Form1.resources
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\obj\Debug\ExportDataTpOfficeApp.Properties.Resources.resources
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\obj\Debug\ExportDataTpOfficeApp.csproj.GenerateResource.Cache
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\obj\Debug\ExportDataTpOfficeApp.csproj.CoreCompileInputs.cache
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\obj\Debug\ExportDataTpOfficeApp.exe
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\obj\Debug\ExportDataTpOfficeApp.pdb
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\bin\Debug\CarLibrary.dll
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\bin\Debug\CarLibrary.pdb
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\bin\Debug\CarLibrary.dll.config
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\obj\Debug\ExportDataTpOfficeApp.CarAddDialog.resources
+D:\GIT\C_programs\Learning excercises\ExportDataTpOfficeApp\obj\Debug\ExportDataTpOfficeApp.csproj.ResolveComReference.cache

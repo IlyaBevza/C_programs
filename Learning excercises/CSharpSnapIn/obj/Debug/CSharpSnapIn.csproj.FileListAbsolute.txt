@@ -1,0 +1,8 @@
+D:\GIT\C_programs\Learning excercises\CSharpSnapIn\bin\Debug\CSharpSnapIn.dll
+D:\GIT\C_programs\Learning excercises\CSharpSnapIn\bin\Debug\CSharpSnapIn.pdb
+D:\GIT\C_programs\Learning excercises\CSharpSnapIn\bin\Debug\CommonSnappableTypes.dll
+D:\GIT\C_programs\Learning excercises\CSharpSnapIn\bin\Debug\CommonSnappableTypes.pdb
+D:\GIT\C_programs\Learning excercises\CSharpSnapIn\obj\Debug\CSharpSnapIn.csprojResolveAssemblyReference.cache
+D:\GIT\C_programs\Learning excercises\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.CoreCompileInputs.cache
+D:\GIT\C_programs\Learning excercises\CSharpSnapIn\obj\Debug\CSharpSnapIn.dll
+D:\GIT\C_programs\Learning excercises\CSharpSnapIn\obj\Debug\CSharpSnapIn.pdb

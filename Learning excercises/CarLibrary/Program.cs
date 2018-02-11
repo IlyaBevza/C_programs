@@ -28,7 +28,7 @@ namespace CarLibrary
 		engineAlive
 	   ,engineDead};
 	
-	class Minivan:Car{
+	public class Minivan:Car{
 		public Minivan(string name,int maxspedd,int cuurspeed):base(name,maxspedd,cuurspeed){}
 		
 		public override void TurboBoost()
@@ -37,7 +37,7 @@ namespace CarLibrary
 		                               	
 		 }				
 	}
-	class SportCar:Car{
+	public class SportCar:Car{
 		public SportCar(string name,int maxspedd,int cuurspeed):base(name,maxspedd,cuurspeed){}
 		
 		public override void TurboBoost()

@@ -1,0 +1,11 @@
+D:\GIT\C_programs\Learning excercises\VBSnapIn\bin\Debug\VBSnapIn.dll
+D:\GIT\C_programs\Learning excercises\VBSnapIn\bin\Debug\VBSnapIn.pdb
+D:\GIT\C_programs\Learning excercises\VBSnapIn\bin\Debug\VBSnapIn.xml
+D:\GIT\C_programs\Learning excercises\VBSnapIn\bin\Debug\CommonSnappableTypes.dll
+D:\GIT\C_programs\Learning excercises\VBSnapIn\bin\Debug\CommonSnappableTypes.pdb
+D:\GIT\C_programs\Learning excercises\VBSnapIn\obj\Debug\VBSnapIn.Resources.resources
+D:\GIT\C_programs\Learning excercises\VBSnapIn\obj\Debug\VBSnapIn.vbproj.GenerateResource.Cache
+D:\GIT\C_programs\Learning excercises\VBSnapIn\obj\Debug\VBSnapIn.vbproj.CoreCompileInputs.cache
+D:\GIT\C_programs\Learning excercises\VBSnapIn\obj\Debug\VBSnapIn.dll
+D:\GIT\C_programs\Learning excercises\VBSnapIn\obj\Debug\VBSnapIn.xml
+D:\GIT\C_programs\Learning excercises\VBSnapIn\obj\Debug\VBSnapIn.pdb
