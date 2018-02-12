@@ -4,3 +4,10 @@ C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\bin\Debug\CarLibra
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\bin\Debug\CarLibrary.pdb
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\obj\Debug\CarLibrary.dll
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\CarLibrary\obj\Debug\CarLibrary.pdb
+D:\GIT\C_programs\Learning excercises\CarLibrary\bin\Debug\CarLibrary.dll.config
+D:\GIT\C_programs\Learning excercises\CarLibrary\bin\Debug\CarLibrary.dll
+D:\GIT\C_programs\Learning excercises\CarLibrary\bin\Debug\CarLibrary.pdb
+D:\GIT\C_programs\Learning excercises\CarLibrary\obj\Debug\CarLibrary.csprojResolveAssemblyReference.cache
+D:\GIT\C_programs\Learning excercises\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+D:\GIT\C_programs\Learning excercises\CarLibrary\obj\Debug\CarLibrary.dll
+D:\GIT\C_programs\Learning excercises\CarLibrary\obj\Debug\CarLibrary.pdb

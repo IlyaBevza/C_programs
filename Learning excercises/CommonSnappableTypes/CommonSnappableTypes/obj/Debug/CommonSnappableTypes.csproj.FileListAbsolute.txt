@@ -1,0 +1,6 @@
+D:\GIT\C_programs\Learning excercises\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.dll
+D:\GIT\C_programs\Learning excercises\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.pdb
+D:\GIT\C_programs\Learning excercises\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.csprojResolveAssemblyReference.cache
+D:\GIT\C_programs\Learning excercises\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.csproj.CoreCompileInputs.cache
+D:\GIT\C_programs\Learning excercises\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.dll
+D:\GIT\C_programs\Learning excercises\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.pdb
