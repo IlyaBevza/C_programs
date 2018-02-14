@@ -1,0 +1,6 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\IB_Mail\obj\Debug\IB_Mail.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\IB_Mail\bin\Debug\IB_Mail.dll.config
+C:\Users\i.bevza\Documents\GIT\c_programms\IB_Mail\bin\Debug\IB_Mail.dll
+C:\Users\i.bevza\Documents\GIT\c_programms\IB_Mail\bin\Debug\IB_Mail.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\IB_Mail\obj\Debug\IB_Mail.dll
+C:\Users\i.bevza\Documents\GIT\c_programms\IB_Mail\obj\Debug\IB_Mail.pdb

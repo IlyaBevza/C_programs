@@ -1,0 +1,8 @@
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ZipFile\obj\Debug\ZipFile.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ZipFile\obj\Debug\ZipFile.MainForm.resources
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ZipFile\obj\Debug\ZipFile.csproj.GenerateResource.Cache
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ZipFile\bin\Debug\ZipFile.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ZipFile\bin\Debug\ZipFile.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ZipFile\bin\Debug\ZipFile.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ZipFile\obj\Debug\ZipFile.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\ZipFile\obj\Debug\ZipFile.pdb
