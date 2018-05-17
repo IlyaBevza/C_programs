@@ -2,6 +2,7 @@
 using System;
 using System.Windows.Forms;
 using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
 namespace Query1C_To_Text
 {
@@ -24,15 +25,20 @@ namespace Query1C_To_Text
                 for (int iy=0;iy<clip.Length;iy++){
                 	ch=clip[iy];
                 	if (iy==0 && ch=='\"') continue;
-                	if(ch=='|' || ch==';') continue;
+                	if(ch=='|') continue;
                 	if(ch!='\"')num=0;
                 	else num++;
-                	if (num>1) continue;
-                	
+                	if (num>1) continue;            
                 	temp.Add(ch);
                 }
+                string result=new string(temp.ToArray());
+                result=Regex.Replace(result,@"^[\s,]+|[\s,]+$", "");
+                result=Regex.Replace(result,";$","");
+                result=Regex.Replace(result,"\"$","");
                 
-                Clipboard.SetText(new string(temp.ToArray()));
+ 
+              	
+              Clipboard.SetText(result);
             }
 		}
 	}

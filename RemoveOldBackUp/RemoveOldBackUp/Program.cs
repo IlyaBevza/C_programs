@@ -14,10 +14,10 @@ namespace RemoveOldBackUpFiles
 		}
 		static string[] fillDrectoryArray(){
 			string[] pathes=new string[4];
-			pathes[0]=@"X:\Backup\bp_promservis";
-			pathes[1]=@"X:\Backup\buh_promservis";
-			pathes[2]=@"X:\Backup\hrm_promservis";
-			pathes[3]=@"X:\Backup\it_promservis";
+			pathes[0]=@"F:\Backup\bp_promservis";
+			pathes[1]=@"F:\Backup\buh_promservis";
+			pathes[2]=@"F:\Backup\hrm_promservis";
+			pathes[3]=@"F:\Backup\it_promservis";
 			return pathes;
 		}
 		static void DeleteBackupFiles(string directorypath)

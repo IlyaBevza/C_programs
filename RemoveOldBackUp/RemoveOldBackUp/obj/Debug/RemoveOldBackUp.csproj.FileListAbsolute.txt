@@ -4,3 +4,9 @@ C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUp\RemoveOldBack
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUp\RemoveOldBackUp\obj\Debug\RemoveOldBackUp.csprojResolveAssemblyReference.cache
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUp\RemoveOldBackUp\obj\Debug\RemoveOldBackUp.exe
 C:\Users\i.bevza\Documents\GIT\c_programms\C_Sharp\RemoveOldBackUp\RemoveOldBackUp\obj\Debug\RemoveOldBackUp.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\RemoveOldBackUp\RemoveOldBackUp\bin\Debug\RemoveOldBackUp.exe.config
+C:\Users\i.bevza\Documents\GIT\c_programms\RemoveOldBackUp\RemoveOldBackUp\bin\Debug\RemoveOldBackUp.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\RemoveOldBackUp\RemoveOldBackUp\bin\Debug\RemoveOldBackUp.pdb
+C:\Users\i.bevza\Documents\GIT\c_programms\RemoveOldBackUp\RemoveOldBackUp\obj\Debug\RemoveOldBackUp.csprojResolveAssemblyReference.cache
+C:\Users\i.bevza\Documents\GIT\c_programms\RemoveOldBackUp\RemoveOldBackUp\obj\Debug\RemoveOldBackUp.exe
+C:\Users\i.bevza\Documents\GIT\c_programms\RemoveOldBackUp\RemoveOldBackUp\obj\Debug\RemoveOldBackUp.pdb
