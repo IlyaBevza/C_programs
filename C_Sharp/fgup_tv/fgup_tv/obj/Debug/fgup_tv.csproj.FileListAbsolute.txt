@@ -1,0 +1,6 @@
+D:\GIT\C_programs\C_Sharp\fgup_tv\fgup_tv\bin\Debug\fgup_tv.exe.config
+D:\GIT\C_programs\C_Sharp\fgup_tv\fgup_tv\bin\Debug\fgup_tv.exe
+D:\GIT\C_programs\C_Sharp\fgup_tv\fgup_tv\bin\Debug\fgup_tv.pdb
+D:\GIT\C_programs\C_Sharp\fgup_tv\fgup_tv\obj\Debug\fgup_tv.csprojResolveAssemblyReference.cache
+D:\GIT\C_programs\C_Sharp\fgup_tv\fgup_tv\obj\Debug\fgup_tv.exe
+D:\GIT\C_programs\C_Sharp\fgup_tv\fgup_tv\obj\Debug\fgup_tv.pdb

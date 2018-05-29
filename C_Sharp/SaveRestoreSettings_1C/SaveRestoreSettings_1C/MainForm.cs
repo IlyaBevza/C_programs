@@ -24,13 +24,11 @@ namespace SaveRestoreSettings_1C
 			
 			InitializePaths();
 			
-			//
-			// TODO: Add constructor code after the InitializeComponent() call.
-			//
 		}
 		void InitializePaths(){
 			applicationPath=Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData)+@"\1C\1Cv8";
 			baseSettingsPath=baseGUID=backupPath=string.Empty;
+			backupPath=Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments)+@"\Backup_1С";
 		}
 		void SaveSettingsClick(object sender, EventArgs e)
 		{
@@ -39,7 +37,6 @@ namespace SaveRestoreSettings_1C
 			if(dialog==DialogResult.Cancel)
 				return;
 			baseSettingsPath=applicationPath+@"\"+baseGUID;
-			backupPath=Environment.CurrentDirectory+@"\Backup_1С";
 				
 			CopyDir(baseSettingsPath,backupPath);
 			SetBalloonTip("Настройки сохранены");			
@@ -101,7 +98,6 @@ namespace SaveRestoreSettings_1C
 		void RestoreSettingsClick(object sender, EventArgs e)
 		{
 			if(!JobIsPossible()) return;
-			backupPath=Environment.CurrentDirectory+@"\Backup_1С";
 			if(Directory.GetFiles(backupPath).Length==0)
 			{
 				MessageBox.Show("Не удалось найти сохраненные файлы настроек");
