@@ -1,6 +1,0 @@
-D:\GIT\C_programs\C_Sharp\SaveRestoreSettings_1C\SaveRestoreSettings_1C\obj\Release\SaveRestoreSettings_1C.MainForm.resources
-D:\GIT\C_programs\C_Sharp\SaveRestoreSettings_1C\SaveRestoreSettings_1C\obj\Release\SaveRestoreSettings_1C.csproj.GenerateResource.Cache
-D:\GIT\C_programs\C_Sharp\SaveRestoreSettings_1C\SaveRestoreSettings_1C\obj\Release\SaveRestoreSettings_1C.csprojResolveAssemblyReference.cache
-D:\GIT\C_programs\C_Sharp\SaveRestoreSettings_1C\SaveRestoreSettings_1C\bin\Release\Сохранение и восстановление настроек 1C.exe.config
-D:\GIT\C_programs\C_Sharp\SaveRestoreSettings_1C\SaveRestoreSettings_1C\bin\Release\Сохранение и восстановление настроек 1C.exe
-D:\GIT\C_programs\C_Sharp\SaveRestoreSettings_1C\SaveRestoreSettings_1C\obj\Release\Сохранение и восстановление настроек 1C.exe
