@@ -1,0 +1,8 @@
+D:\GIT\C_programs\FinCalculator\FinCalculator\FinCalculator\obj\Debug\FinCalculator.csprojResolveAssemblyReference.cache
+D:\GIT\C_programs\FinCalculator\FinCalculator\FinCalculator\obj\Debug\FinCalculator.MainForm.resources
+D:\GIT\C_programs\FinCalculator\FinCalculator\FinCalculator\obj\Debug\FinCalculator.csproj.GenerateResource.Cache
+D:\GIT\C_programs\FinCalculator\FinCalculator\FinCalculator\bin\Debug\FinCalculator.exe.config
+D:\GIT\C_programs\FinCalculator\FinCalculator\FinCalculator\bin\Debug\FinCalculator.exe
+D:\GIT\C_programs\FinCalculator\FinCalculator\FinCalculator\bin\Debug\FinCalculator.pdb
+D:\GIT\C_programs\FinCalculator\FinCalculator\FinCalculator\obj\Debug\FinCalculator.exe
+D:\GIT\C_programs\FinCalculator\FinCalculator\FinCalculator\obj\Debug\FinCalculator.pdb

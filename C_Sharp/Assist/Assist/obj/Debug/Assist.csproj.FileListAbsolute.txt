@@ -1,0 +1,6 @@
+D:\GIT\C_programs\C_Sharp\Assist\Assist\bin\Debug\Assist.exe.config
+D:\GIT\C_programs\C_Sharp\Assist\Assist\bin\Debug\Assist.exe
+D:\GIT\C_programs\C_Sharp\Assist\Assist\bin\Debug\Assist.pdb
+D:\GIT\C_programs\C_Sharp\Assist\Assist\obj\Debug\Assist.csprojResolveAssemblyReference.cache
+D:\GIT\C_programs\C_Sharp\Assist\Assist\obj\Debug\Assist.exe
+D:\GIT\C_programs\C_Sharp\Assist\Assist\obj\Debug\Assist.pdb

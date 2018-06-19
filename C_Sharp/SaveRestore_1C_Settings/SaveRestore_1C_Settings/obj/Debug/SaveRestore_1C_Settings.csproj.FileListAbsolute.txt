@@ -1,0 +1,12 @@
+D:\GIT\C_programs\C_Sharp\SaveRestore_1C_Settings\SaveRestore_1C_Settings\bin\Debug\SaveRestore_1C_Settings.exe.config
+D:\GIT\C_programs\C_Sharp\SaveRestore_1C_Settings\SaveRestore_1C_Settings\bin\Debug\SaveRestore_1C_Settings.exe
+D:\GIT\C_programs\C_Sharp\SaveRestore_1C_Settings\SaveRestore_1C_Settings\bin\Debug\SaveRestore_1C_Settings.pdb
+D:\GIT\C_programs\C_Sharp\SaveRestore_1C_Settings\SaveRestore_1C_Settings\obj\Debug\SaveRestore_1C_Settings.csprojResolveAssemblyReference.cache
+D:\GIT\C_programs\C_Sharp\SaveRestore_1C_Settings\SaveRestore_1C_Settings\obj\Debug\SaveRestore_1C_Settings.exe
+D:\GIT\C_programs\C_Sharp\SaveRestore_1C_Settings\SaveRestore_1C_Settings\obj\Debug\SaveRestore_1C_Settings.pdb
+C:\Documents and Settings\bevza\Мои документы\SharpDevelop Projects\SaveRestore_1C_Settings\SaveRestore_1C_Settings\bin\Debug\SaveRestore_1C_Settings.exe.config
+C:\Documents and Settings\bevza\Мои документы\SharpDevelop Projects\SaveRestore_1C_Settings\SaveRestore_1C_Settings\bin\Debug\SaveRestore_1C_Settings.exe
+C:\Documents and Settings\bevza\Мои документы\SharpDevelop Projects\SaveRestore_1C_Settings\SaveRestore_1C_Settings\bin\Debug\SaveRestore_1C_Settings.pdb
+C:\Documents and Settings\bevza\Мои документы\SharpDevelop Projects\SaveRestore_1C_Settings\SaveRestore_1C_Settings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bevza\Мои документы\SharpDevelop Projects\SaveRestore_1C_Settings\SaveRestore_1C_Settings\obj\Debug\SaveRestore_1C_Settings.exe
+C:\Documents and Settings\bevza\Мои документы\SharpDevelop Projects\SaveRestore_1C_Settings\SaveRestore_1C_Settings\obj\Debug\SaveRestore_1C_Settings.pdb
